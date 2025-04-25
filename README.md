@@ -1,6 +1,23 @@
 ## Developed live on twitch
 [ThePrimeagen](https://twitch.tv/ThePrimeagen)
 
+
+## order
+
+- 1 linearsearch
+- 2 binarysearch
+- 3 twocrystalballs
+- 4 bubblesort
+- 5 queue
+- 6 stack
+- 7 arraylist
+- 8 array ringbuffer
+- 9 MazeSolver
+- 10 QuickSort
+- 11 LinkedList
+- 12 BTPreOrder,
+
+
 ## Naming
 ### Lig-Machine
 Lengthy Instrumentation Generating Massive Anticompetitive Computational Help for Intermediate Coders // n9
