@@ -15,7 +15,7 @@
 - 9 MazeSolver
 - 10 QuickSort
 - 11 LinkedList
-- 12 BTPreOrder,
+- 12 BTPreOrder, BTInOrder, BTPostOrder
 
 
 ## Naming
